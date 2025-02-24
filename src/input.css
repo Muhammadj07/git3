@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.all2{
+    background-image: url(/Subtract.png);
+    background-repeat: no-repeat;
+}
